@@ -63,8 +63,8 @@ preguntar = preguntar.toLowerCase();
 while (preguntar === "si") {
     let lenguaje = prompt("¿Cúal?");
     alert(`¡¡ ${lenguaje} es muy interesante!!`);
-    lenguaje = prompt("¿le gustaría especializarse o conocer en otro? Elija si para continuar");
-    lenguaje = lenguaje.toLowerCase();
+    preguntar = prompt("¿le gustaría especializarse o conocer en otro? Elija si para continuar");
+    preguntar = preguntar.toLowerCase();
 }
 
 /*
