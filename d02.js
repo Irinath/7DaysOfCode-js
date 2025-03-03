@@ -33,11 +33,11 @@ if (gustar == 1){
   console.log(" Oh, qué pena... ¿Ya intentaste aprender otros lenguajes?");
 }
 
- CONSEJO 
+/*CONSEJO 
 Puedes agregar tantas preguntas como desees y aprovechar las respuestas de los usuarios en el mensaje que se mostrará.
 Para imprimir y recibir valores, puedes usar tanto console.log, prompt y alert, como también HTML y CSS si ya tienes conocimiento en estas dos tecnologías.
 
-Puedes usar la estructura condicional if para resolver el Ejercicio Opcional. Algo como:
+Puedes usar la estructura condicional if para resolver el Ejercicio Opcional. Algo como: 
 if (respuesta == 1) {
     // da la respuesta positiva
 }
@@ -58,4 +58,4 @@ const ciudad = prompt("Escribe tu ciudad:");
 const msg = `¡Eres de ${ciudad}!`;
 alert(msg);
 
-Prueba los códigos anteriores e intenta adaptarlos a tu programa.
+Prueba los códigos anteriores e intenta adaptarlos a tu programa.*/
