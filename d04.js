@@ -2,7 +2,7 @@ let minimo = prompt("Ingresa el valor mínimo a adivinar");
 let maximo = prompt("Ingresa el valor máximo a adivinar");
 let adivinarNumero = Math.floor(Math.random() * (maximo - minimo) + minimo);
 let numero = "";
-console.log(adivinarNumero);
+/*console.log(adivinarNumero);*/
 
 for (let i = 0; i < 3; i++) {
   numero = parseInt(prompt(`Indica un número entre ${minimo} y ${maximo} `));
